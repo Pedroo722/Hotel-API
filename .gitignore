@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+src/java/br/edu/ifpb/hotel/resources/application-secret.properties
