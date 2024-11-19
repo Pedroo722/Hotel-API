@@ -38,7 +38,7 @@ Membros
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Pedroo722/Hotel-API.git.git
+   git clone https://github.com/Pedroo722/Hotel-API.git
    cd seu-repositorio
    ```
 
