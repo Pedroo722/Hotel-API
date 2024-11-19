@@ -1,4 +1,4 @@
-# Biblioteca API
+# Hotel API
 
 Projeto back-end criado para a disciplina de **Banco de Dados II**. A aplicação foi construída utilizando **Java** e **Spring Boot**, usando o **MongoDB** como o banco de dados, visando criar uma api para a consulta de informações de um projeto java pré-existente de um [Sistema de Gerenciamento de Hotel](https://github.com/Pedroo722/Hotel_PP/), desenvolvido como parte da disciplina de *Padrões de Projetos*.
 
